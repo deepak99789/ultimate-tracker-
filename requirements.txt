@@ -3,4 +3,4 @@ plotly
 pandas
 numpy
 openpyxl
-git+https://github.com/StreamAlpha/tvdatafeed.git
+git+https://github.com/StreamAlpha/tvdatafeed.git@master
